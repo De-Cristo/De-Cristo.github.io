@@ -28,12 +28,12 @@ My research interest includes high energy physics experiments.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JHEP 2024</div><img src='images/VHH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Search for Higgs boson pair production with one associated vector boson](https://link.springer.com/article/10.1007/JHEP10(2024)061)
+[Search for Higgs boson pair production with one associated vector boson ](https://link.springer.com/article/10.1007/JHEP10(2024)061)
 
 **Licheng Zhang**, Yihui Lai, Xiaohu Sun, Chris Palmer, CMS Collaboration
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Probing triple Higgs production via 4τ2b decay channel at a 100 TeV hadron collider](https://arxiv.org/abs/2504.04037)
+Zhenyu Dong, Xiaohu Sun, Botao Guo, **Licheng Zhang**, et al.
 </div>
 </div>
 
