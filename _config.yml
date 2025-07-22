@@ -27,17 +27,18 @@ author:
   location         : "Geneva, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4eAOrgkAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=4eAOrgkAAAAJ"
+  inspireHEP       : "https://inspirehep.net/authors/1935582"
   email            : "licheng.zhang@cern.ch"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : ""
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "De-Cristo"
+  github           : "De-Cristo"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/0000-0001-7947-9007"
+  orcid            : "https://orcid.org/0000-0001-7947-9007"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
