@@ -27,8 +27,8 @@ author:
   location         : "Geneva, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=4eAOrgkAAAAJ"
-  inspireHEP       : "https://inspirehep.net/authors/1935582"
+  googlescholar    : "https://inspirehep.net/authors/1935582"
+  inspireHEP       : # "https://scholar.google.com/citations?user=4eAOrgkAAAAJ"
   email            : "licheng.zhang@cern.ch"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : ""
