@@ -51,5 +51,4 @@ Zhenyu Dong, Xiaohu Sun, Botao Guo, **Licheng Zhang**, et al.
 - *2019.09 - 2024.07*, Peking University, China
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.12*, Higgs Potential 2024 plenary talk: **CMS VHH Research**, Hefei, China [link](https://indico.pnp.ustc.edu.cn/event/2009/timetable/?view=standard_inline_minutes#48-cms-vhh-search)
