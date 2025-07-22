@@ -25,7 +25,7 @@ My research interest includes high energy physics experiments.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JHEP 2024</div><img src='images/VHH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Search for Higgs boson pair production with one associated vector boson](https://link.springer.com/article/10.1007/JHEP10(2024)061)
