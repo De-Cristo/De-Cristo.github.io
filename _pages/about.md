@@ -33,6 +33,7 @@ My research interest includes high energy physics experiments.
 **Licheng Zhang**, Yihui Lai, Xiaohu Sun, Chris Palmer, CMS Collaboration
 
 [Probing triple Higgs production via 4τ2b decay channel at a 100 TeV hadron collider](https://arxiv.org/abs/2504.04037)
+
 Zhenyu Dong, Xiaohu Sun, Botao Guo, **Licheng Zhang**, et al.
 </div>
 </div>
