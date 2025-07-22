@@ -30,7 +30,7 @@ My research interest includes high energy physics experiments.
 
 [Search for Higgs boson pair production with one associated vector boson](https://link.springer.com/article/10.1007/JHEP10(2024)061)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Licheng Zhang**, Yihui Lai, Xiaohu Sun, Chris Palmer, CMS Collaboration
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
